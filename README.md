@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://drive.google.com/uc?export=view&id=1rSeqLTSx0tlQKxmWCJn2DycNucpXiO_q" 
+    src="https://drive.google.com/uc?export=view&id=1SpBjT4KEWp3laSLPjoXT6i4H35yJIZJU" 
     alt="Banner" 
     width="100%"
   />
