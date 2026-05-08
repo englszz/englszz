@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://drive.google.com/uc?export=view&id=1076oIim_Dx2MgCpwSq3ryYrzgZfVzhrp" 
+    src="https://drive.google.com/uc?export=view&id=1rSeqLTSx0tlQKxmWCJn2DycNucpXiO_q" 
     alt="Banner" 
     width="100%"
   />
@@ -78,14 +78,18 @@ const engels = {
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=englszz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="Engels' GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=englszz&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Engels' Streak Stats"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=englszz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=englszz&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
+</div>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=englszz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=englszz&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C9D1D9&currStreakNum=3B82F6" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=englszz&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ### 🎯 Current Projects
 
