@@ -93,7 +93,7 @@ const engels = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.engelsdamiron.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/💼_Portfolio-Visit_Site-3B82F6?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
 
