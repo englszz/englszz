@@ -33,8 +33,8 @@
 const engels = {
   location: "Santo Domingo, Dominican Republic 🇩🇴",
   education: "Cybersecurity Engineering Student",
-  currentFocus: ["Web Development", "IT Infrastructure", "Security"],
-  workingOn: "EDP.web - Web Design Agency",
+  currentFocus: ["Fintech Research", "Web Development", "Cybersecurity"],
+  workingOn: "Independent research on financial management for informal businesses",
   funFact: "I learn best by breaking things and fixing them"
 };
 ```
@@ -93,9 +93,9 @@ const engels = {
 
 ### 🎯 Current Projects
 
-- 🦷 **AJ Dent** - Dental clinic website with 3D models (Three.js)
-- 🌐 **EDP.web** - Modern web design agency landing page
-- 📱 **Personal Portfolio** - Minimalist showcase of my work
+- 🏪 **Colmado Finance Research** - Independent field research on financial management for informal businesses in the Dominican Republic
+- 🎵 **DING** - Personal music diary with album/track ratings and social comments (Next.js + Supabase)
+- 🦷 **AJ Dent** - Dental clinic website with 3D models and AI chatbot (Three.js, Supabase)
 
 ### 🤝 Let's Connect
 
@@ -105,9 +105,6 @@ const engels = {
   </a>
   <a href="mailto:engelsdamiron9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/engeeel.s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
