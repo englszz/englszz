@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://engels-damiron.vercel.app/en/" target="_blank">
+  <a href="https://www.engelsdamiron.me/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3B82F6?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
@@ -56,6 +56,7 @@ const engels = {
 
 #### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </td>
@@ -94,17 +95,20 @@ const engels = {
 ### 🎯 Current Projects
 
 - 🏪 **Colmado Finance Research** - Independent field research on financial management for informal businesses in the Dominican Republic
-- 🎵 **DING** - Personal music diary with album/track ratings and social comments (Next.js + Supabase)
-- 🦷 **AJ Dent** - Dental clinic website with 3D models and AI chatbot (Three.js, Supabase)
+- 🎵 **DING** - Personal music diary with album/track ratings and a social comments layer (Next.js + Supabase)
+- 🦷 **AJ Dent** - Dental clinic website with interactive 3D model and AI chatbot (Three.js, Supabase)
 
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/engelsdamiron" target="_blank">
+  <a href="https://www.linkedin.com/in/engelsdamiron/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:engelsdamiron9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/engeeel.s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
