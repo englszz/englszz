@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Engels+%F0%9F%91%8B;Frontend+Developer;IT+Support+%26+Networking;Cybersecurity+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Engels+%F0%9F%91%8B;Web+Developer;Exploring+Fintech+for+Informal+Businesses;Cybersecurity+Engineering+Student" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -77,21 +77,6 @@ const engels = {
   </tr>
 </table>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=englszz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=englszz&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=englszz&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C9D1D9&currStreakNum=3B82F6" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=englszz&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ### 🎯 Current Projects
 
 - 🏪 **Colmado Finance Research** - Independent field research on financial management for informal businesses in the Dominican Republic
@@ -107,8 +92,8 @@ const engels = {
   <a href="mailto:engelsdamiron9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/engeeel.s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.engelsdamiron.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
